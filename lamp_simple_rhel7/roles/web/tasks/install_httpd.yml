@@ -5,7 +5,7 @@
   with_items:
    - httpd
    - php
-   - php-mysql
+   - php-mysqlnd
    - git
 
 - name: Start firewalld
