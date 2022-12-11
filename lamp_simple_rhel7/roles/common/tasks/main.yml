@@ -1,5 +1,0 @@
----
-
-- name: Install common dependencies
-  yum: name=firewalld state=installed
-
