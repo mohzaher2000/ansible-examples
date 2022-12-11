@@ -1,5 +1,8 @@
 ---
 
+- name: Gathering facts from all the servers
+  hosts: all
+
 - name: configure and deploy the webservers and application code
   hosts: webservers
   roles:
