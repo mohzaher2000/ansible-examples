@@ -1,7 +1,6 @@
 [webservers]
-webserver.local
+servera.lab.example.com
 
 [dbservers]
-dbserver.local
-
+servera.lab.example.com
 
