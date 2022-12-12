@@ -1,0 +1,10 @@
+---
+
+mysqlservice: mysqld
+mysql_port: 3306
+dbname:
+ - dishwashers
+ - washing_machines
+ - refregirators
+dbuser: foouser
+upassword: abc
